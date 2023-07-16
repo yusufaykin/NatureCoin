@@ -2,11 +2,11 @@
 
 #### by Yusuf Aykın
 
-## Description
+# Description
 
 This project includes a beautiful and impressive website created using SCSS. The project is built using modern web design standards and optimized to enhance the experience of your users.
 
-## Links
+# Links
 
 - [Github Repo](https://github.com/yusufaykin/NatureCoin)
 - [Demo Site](https://naturecoin.netlify.app)
@@ -31,7 +31,7 @@ This project includes a beautiful and impressive website created using SCSS. The
 - HTML
 - SCSS
 
-## Requirements
+# Requirements
 
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
 
@@ -39,7 +39,7 @@ This project includes a beautiful and impressive website created using SCSS. The
 
 <img src="/images/Capture.PNG">
 
-## Installation
+# Installation
 
 1. Clone this repo: `git clone https://github.com/username/NatureCoin.git`
 2. Navigate to the project folder: `cd project-name`
